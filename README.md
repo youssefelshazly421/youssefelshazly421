@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**youssefelshazly421/youssefelshazly421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Youssef Hesham 👋
 
-Here are some ideas to get you started:
+### Machine Learning Engineer | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Machine Learning, Artificial Intelligence, and Data Science. I enjoy building ML models and turning data into useful insights.
+
+- 🤖 Exploring Machine Learning and AI
+- 🐍 Developing projects using Python
+- 📊 Working with data analysis and visualization
+- 🚀 Deploying ML models using Streamlit
+- 📚 Always learning and improving my skills
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn
+- **Visualization:** Matplotlib
+- **Deployment:** Streamlit
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+### 📌 Featured Projects
+
+- 🚢 **Titanic Survival Prediction** — Predicting passenger survival using Machine Learning.
+- 🚗 **Used Car Price Prediction** — Estimating car prices using data analysis and ML.
+- 📧 **Spam Email Classification** — Classifying emails using Machine Learning.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ Thanks for visiting my profile!
