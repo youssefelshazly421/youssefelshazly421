@@ -18,17 +18,18 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 - **Machine Learning:** Scikit-learn
 - **Visualization:** Matplotlib
 - **Deployment:** Streamlit
-- **Tools:** Git, GitHub, Jupyter Notebook
+- **Tools:** Git, GitHub, Jupyter Notebook ,VS Code 
 
 ### 📌 Featured Projects
 
 - 🚢 **Titanic Survival Prediction** — Predicting passenger survival using Machine Learning.
-- 🚗 **Used Car Price Prediction** — Estimating car prices using data analysis and ML.
+- 🚗 **Churn  Price Prediction** — Estimating car prices using data analysis and ML.
 - 📧 **Spam Email Classification** — Classifying emails using Machine Learning.
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/youssefelshazly421
+Gmail: youssefelshazly421@gmail.com
 
 ---
 
