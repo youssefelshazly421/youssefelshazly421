@@ -8,7 +8,7 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 - 🤖 Exploring Machine Learning and AI
 - 🐍 Developing projects using Python
 - 📊 Working with data analysis and visualization
-- 🚀 Deploying ML models using Streamlit
+- 🚀 Deploying ML models using Streamlit and Fast API
 - 📚 Always learning and improving my skills
 
 ### 🛠️ Technologies & Tools
@@ -24,7 +24,7 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 
 - 🚢 **Titanic Survival Prediction** — Predicting passenger survival using Machine Learning.
 
-- **Churn  Price Prediction** — Estimating car prices using data analysis and ML.
+- 📊**Churn  Price Prediction** — Estimating car prices using data analysis and ML.
 
 - 📧 **Spam Email Classification** — Classifying emails using Machine Learning.
 
