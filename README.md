@@ -17,7 +17,7 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn
 - **Visualization:** Matplotlib
-- **Deployment:** Streamlit
+- **Deployment:** Streamlit,API
 - **Tools:** Git, GitHub, Jupyter Notebook ,VS Code 
 
 ### 📌 Featured Projects
