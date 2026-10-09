@@ -8,7 +8,7 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 - 🤖 Exploring Machine Learning and AI
 - 🐍 Developing projects using Python
 - 📊 Working with data analysis and visualization
-- 🚀 Deploying ML models using Streamlit and Fast API
+- 🚀 Deploying ML models using Streamlit and FastAPI
 - 📚 Always learning and improving my skills
 
 ### 🛠️ Technologies & Tools
@@ -17,7 +17,7 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn
 - **Visualization:** Matplotlib
-- **Deployment:** Streamlit,API
+- **Deployment:** Streamlit,FastAPI
 - **Tools:** Git, GitHub, Jupyter Notebook ,VS Code 
 
 ### 📌 Featured Projects
