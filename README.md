@@ -23,7 +23,9 @@ I'm passionate about Machine Learning, Artificial Intelligence, and Data Science
 ### 📌 Featured Projects
 
 - 🚢 **Titanic Survival Prediction** — Predicting passenger survival using Machine Learning.
-- 🚗 **Churn  Price Prediction** — Estimating car prices using data analysis and ML.
+
+- **Churn  Price Prediction** — Estimating car prices using data analysis and ML.
+
 - 📧 **Spam Email Classification** — Classifying emails using Machine Learning.
 
 ### 📫 Connect With Me
